@@ -38,7 +38,7 @@
     "typography": "^0.16.17"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.20.7",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/plugin-proposal-optional-chaining": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
@@ -53,7 +53,7 @@
     "gulp-ssh": "^0.7.0",
     "gulp-tar": "^2.1.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "react-test-renderer": "^16.5.2",
     "run-sequence": "^2.2.1"
   },
